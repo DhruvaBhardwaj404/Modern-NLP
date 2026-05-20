@@ -1,6 +1,3 @@
-Even though I have taken help from the following students and LLMs in terms of discussing ideas and coding practices, all my code is written by me.
-Gemini, Claude
-
 <h2>For Task 1</h2>
 We have a very skewed sft dataset: English has over 50k tuples but hindi and kannada only has about 200. The other challenge
 was that even within the english dataset about 80% of the data belongs to just one class label and the label distribution was very skewed with 8-10 labels comprising most of the data.
